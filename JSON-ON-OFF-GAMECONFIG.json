@@ -1,0 +1,94 @@
+{
+  "Ads": [
+    {
+      "mumetle": "1",
+      "turuwae": "1",
+      
+	  "ngelubos" : true,
+      "admint" : "ca-app-pub-3940256099942544/1033173712xx",
+      "admints" : "ca-app-pub-3940256099942544/1033173712",
+      "admintsbek" : "ca-app-pub-3940256099942544/1033173712",
+      "isadmbantopac" : true,
+      "isadmbantop" : true,
+      "isadmbantop_lok" : "Z8y0Gwpm2lInZ6BGkl69yA==",
+
+      "isadmbantop_isw1" : "jSPu45Fq15zczJ3Dism6lg==",
+
+      "isadmbantop_isw2" : "Lqv1dsFLJreLSxjIAEgWUg==",
+
+      "isadmbantop_ish1" : "jSPu45Fq15zczJ3Dism6lg==",
+
+      "isadmbantop_ish2" : "5kPlDmGEYMVXi5qC0udu9A==",
+
+      "isadmbantop_isx" : "ZVrCnC0/bVFcqTBbZQlzNQ==",
+
+      "isadmbantop_isy" : "ZVrCnC0/bVFcqTBbZQlzNQ==",
+
+      "admban" : "phQ0aJfgVTd/RruWxWQHsZq7cobmebsLlj9meo1V8e5e3Ycd4V1LxlHTEpJ7J+tF",
+      "tStartInt" : 20000,
+      "tExtendInt" : 180000,
+      "tLoadDelayInts" : 15000,
+      "tShowAdsDelayInts" : 160000,
+	  
+	  //UNITY
+	  
+	  "esbajigur": "1",
+	  "esbajigurmu": true,
+	  "unitest" : true,
+	  "uniid" : "mdF9hYb5ptYSFzPtpNr43Q==",
+	  "uniint" : "afF6Q7hlBO09t1zDcKl8Ag==",
+	  "univid" : "afF6Q7hlBO09t1zDcKl8Ag==",
+	  "unimumet" : "VJLd4AR8uZp8RHTLtua7AoBND4AA1fTIY1t1j4d08bA=",
+	  "tStartIntUni" : 20000,
+      "tExtendIntUni" : 180000,
+      "tLoadDelayIntsUni" : 60000,
+      "tShowAdsDelayIntsUni" : 160000,
+	  
+	  
+	  //IRC
+	  
+      "isirbantopac" : true,
+      "isirbantop" : true,
+
+		// KIRI = 50, TENGAH 49
+	  "irban" : "iUrvMKKWRHv3rg2fiE+6pw==",
+	
+	  "irrefresh" : "gP/L4EknlC/nFwzYm5NfYg==",
+	
+      "isirbantop_lok" : "yzrfEj/WJCuH1CbZnzLHYQ==",
+
+      "isirbantop_isw1" : "HNNgZzykiW0Iyi3fP7PDsA==",
+
+      "isirbantop_isw2" : "HNNgZzykiW0Iyi3fP7PDsA==",
+
+      "isirbantop_ish1" : "HNNgZzykiW0Iyi3fP7PDsA==",
+
+      "isirbantop_ish2" : "HNNgZzykiW0Iyi3fP7PDsA==",
+	  
+      "isirbantop_isx" : "ZVrCnC0/bVFcqTBbZQlzNQ==",
+
+      "isirbantop_isy" : "ZVrCnC0/bVFcqTBbZQlzNQ==",
+	  
+	  //IRC INTER
+	  
+	  "wedangronde": "1",
+	  "iractive" : true,
+	  "irappkey" : "iUrvMKKWRHv3rg2fiE+6pw==",
+	  "tStartIntIr" : 20000,
+      "tExtendIntIr" : 180000,
+      "tLoadDelayIntsIr" : 30000,
+      "tShowAdsDelayIntsIr" : 160000,
+	  
+	  
+	  //FAN INTER
+	  "wedanguwuh": "1",
+	  "eskampulmu" : true,
+	  "intsfan" : "vV/N9X2FUFwDnE+DPLIsldaMMfLE4TgRQRwWB5/UG+//MVSxI3PIVBWTiLWdLZnT",
+	  "tStartIntFan" : 20000,
+      "tExtendIntFan" : 180000,
+      "tLoadDelayIntsFan" : 15000,
+      "tShowAdsDelayIntsFan" : 160000
+	  
+    }
+  ]
+}
